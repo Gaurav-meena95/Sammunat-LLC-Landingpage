@@ -15,8 +15,8 @@ const features = [
 
 const Features = () => {
   return (
-    <section className="py-20 px-10 bg-slate-100">
-      <h2 className="text-3xl font-bold text-center mb-12">
+    <section className="py-20 px-10  bg-linear-to-r from-blue-500 to-indigo-500">
+      <h2 className="text-3xl text-slate-100 font-bold text-center mb-12">
         Why Choose Us
       </h2>
 
