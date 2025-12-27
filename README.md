@@ -147,8 +147,7 @@ The built files will be in the `dist/` directory, ready for deployment to any st
 This project is private and proprietary to Sammunat LLC.
 
 ## 📞 Contact
-
-For questions or support regarding this project, please contact Sammunat LLC.
+Gaurav Meena 7724014495
 
 ---
 
